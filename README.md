@@ -1,3 +1,17 @@
+wasm3/wasm3#458
+
+bytecodealliance/wasm-micro-runtime#3137
+
+bytecodealliance/wasm-micro-runtime#3130
+
+bytecodealliance/wasm-micro-runtime#3122
+
+wasm3/wasm3#464
+
+wasm3/wasm3#463
+
+wasm3/wasm3#462
+
 CVE-2024-35410, CVE-2024-35418, CVE-2024-35419, CVE-2024-35420, CVE-2024-35421, CVE-2024-35422, 
 CVE-2024-35423, CVE-2024-35424, CVE-2024-35425, CVE-2024-35426, CVE-2024-35427, CVE-2024-25431, 
 CVE-2024-27527, CVE-2024-27528, CVE-2024-27529, CVE-2024-27530, CVE-2024-27532
