@@ -1,2 +1,2 @@
-# WasmFuzzer
-Fuzz Wasm
+# LLM4Fuzzing
+Northwestern CS 450
